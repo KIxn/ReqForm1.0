@@ -1,0 +1,13 @@
+.Form{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(168, 175, 175,0.95);
+    margin: 0.8em;
+    border-radius: 0.5em;
+    box-shadow: 0.2em 0.4em rgba(68, 66, 66, 0.8);
+    padding: 0.5em 2em;
+}
+
+.Header{
+    text-decoration: underline;
+}
